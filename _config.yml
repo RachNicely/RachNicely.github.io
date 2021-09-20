@@ -26,14 +26,13 @@ description: Lab 05 GitHub Pages
 avatar: "/img/og_Rachael.jpg"
 
 
-# List of links in the navigation bar
+# --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-    - Get Started: "getstarted"
   Author's home: "https://deanattali.com"
  
 # --- Footer options --- #
