@@ -175,3 +175,5 @@ prose:
 # Markdown emoji plugin
 gems:
   - jemoji
+
+theme: jekyll-theme-minimal
