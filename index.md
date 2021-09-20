@@ -1,7 +1,8 @@
 ---
 layout: page
-title:  Associate Professor
-subtitle: Web Information Systems, TU Delft
+title:  Graduate Student
+subtitle: Pursuing M.S. Program Evaluation and Data Analytics
+use-site-title: true
 ---
 
 ## <img src="../img/news.png" height="50px"> News
