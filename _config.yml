@@ -25,12 +25,16 @@ description: CPP 527 Fall A - Lab 05
 # Remove this parameter if you don't want an image in the navbar
 avatar: "/img/og_claudia.png"
 
+
 # List of links in the navigation bar
 navbar-links:
-  Blog: "blog"
-  Teaching: "teaching"
-  #Datasets: "datasets"
-  Publications: "publications"
+  About Me: "aboutme"
+  Resources:
+  Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  Learn markdown: "http://www.markdowntutorial.com/"
+  Getting Started: "getstarted" 
+  Table Demo: "table-demo"   
+  Author's home: "http://deanattali.com"  
  
 # --- Footer options --- #
 
