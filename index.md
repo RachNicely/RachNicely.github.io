@@ -7,7 +7,7 @@ use-site-title: true
 
 Hello, my name is Rachael. Welcome to my site! 
 
-<img src="../img/avatar-icon.png" height="100px">
+<img src="../img/og_Rachael.jpg" height="100px">
 
 
 ## <img src="../img/career.png" height="50px"> My career
