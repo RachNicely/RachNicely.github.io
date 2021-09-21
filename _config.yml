@@ -65,14 +65,13 @@ paginate_path: "blog/page:num"
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#008B8B"
-navbar-text-col: "#F0FFFF"
-navbar-border-col: "#DDDDDD"
+navbar-col: "blue"
+navbar-text-col: "#404040"
+navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
-text-col: "#404040"
 link-col: "#008AFF"
 hover-col: "#0085A1"
-footer-col: "#EAEAEA"
+footer-col: "#F5F5F5"
 footer-text-col: "#777777"
 footer-link-col: "#404040"
 
@@ -80,7 +79,7 @@ footer-link-col: "#404040"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "Europe/Amsterdam"
+timezone: "America/Toronto"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
