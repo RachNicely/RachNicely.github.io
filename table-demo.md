@@ -22,7 +22,7 @@ gosling:
 ---
 
 
-<img src="../img/ryan-v-ryan.jpg" height="300px">
+<img src="../img/ryan-v-ryan.jpg" height="300px" class="center">
 
 
 ## Who is the best Ryan?
