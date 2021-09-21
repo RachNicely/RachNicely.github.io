@@ -1,17 +1,15 @@
-# --- Serving options --- #
+# Welcome to Beautiful Jekyll!
+# This config file is meant for settings that affect your entire website. When you first
+# set up your website you should go through all these settings and edit them, but after
+# the initial set up you won't need to come back to this file often.
 
-# url is the full website URL
-# baseurl is the website's URL without the hostname
-
-# If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "http://RachNicely.github.io"
-baseurl: ""
+# --- Required options --- #
 
 # Name of website
-title: Rachael Nicely
+title: Rachael Nicely's Site
 
-# Short description of your site
-description: Lab 05 GitHub Pages
+# Your name to show in the footer
+author: Rachael Nicely
 
 # --- List of links in the navigation bar --- #
 
