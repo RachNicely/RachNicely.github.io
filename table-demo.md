@@ -9,16 +9,18 @@ reynolds:
   weaknesses: 
   - singing
   - green lantern movie
-  - tennis backhand 
+  - tennis backhand
+  - dated alanis morissette 
 gosling:
   strengths: 
   - builds houses
   - is a real boy
   - never dated alanis morissette
   weaknesses: 
-  - micky mouse club
+  - mickey mouse club
   - cries a lot
   - not ryan reynolds
+  - never dated alanis morissette
 ---
 
 
