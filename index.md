@@ -21,6 +21,6 @@ I have been working as a Data Engineer at American Express in Phoenix, Arizona. 
 
 ## <img src="../img/contact.png" height="50px"> Contact
 
-Email: rgokool@asu.edu
+Email: [rgokool@asu.edu](mailto:rgokool@asu.edu)
 ```
 
