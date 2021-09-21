@@ -5,7 +5,10 @@ subtitle: Pursuing M.S. Program Evaluation and Data Analytics
 use-site-title: true
 ---
 
-Hello! Welcome to my site! 
+Hello, my name is Rachael. Welcome to my site! 
+
+<img src="../img/avatar-icon.png" height="100px">
+
 
 ## <img src="../img/career.png" height="50px"> My career
 For a brief and compact overview, take a look at my [LinkedIn profile.](https://www.linkedin.com/in/rachael-nicely-30132bba/)
